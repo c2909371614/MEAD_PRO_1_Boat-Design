@@ -8,7 +8,6 @@
 <center> fig 2. 小船solidwords三维模型图 </center>
 <img src="https://github.com/c2909371614/MEAD_PRO_1_Boat-Design/blob/master/%E7%AD%94%E8%BE%A9%E5%BE%85%E7%94%A8%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%88%B9%E9%AA%A8%E6%9E%B6%E8%AE%BE%E8%AE%A1cad%E4%BA%8C%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%9B%BE.jpg" height = 80% width = 80%/>
 <center> fig 3. 小船骨架设计cad二维工程图 </center>
-
 ### 一、MADE项目任务书-- 船只设计项目
 
 ​		Welcome to the MADE project!!! Here, MADE stands for Mathematical Analysis and Design for Engineering. This is a project-based course, which aims at improving the participators’ understanding of mathematics knowledge and engineering analysis. MADE should be able to help the students to develop a thinking mode of applying theoretical analysis and quantitative calculation, and truly understand the role of mathematics in engineering projects. 
@@ -150,8 +149,8 @@
 
 ### 三、解决方案概要
 
-> ​	针对如何使用一块***600mm x500mm***的木板制造一艘在承载一定质量的重物的情况下能够平稳的漂浮起来切具有稳定消失角(AVS)的方案进行了研究。通过数学曲面公式来简单的表示船体的曲面，通过曲面积分来计算船体体积、吃水线性、船体的浮心和重心，确定浮心、重心之后计算出倾斜一定角度时的复原力矩。通过使倾斜一定角度时船体重心在浮力方向和船体中心线的交点上来确定AVS(135°)。
+> ​		针对如何使用一块***600mm x500mm***的木板制造一艘在承载一定质量的重物的情况下能够平稳的漂浮起来切具有稳定消失角(AVS)的方案进行了研究。通过数学曲面公式来简单的表示船体的曲面，通过曲面积分来计算船体体积、吃水线性、船体的浮心和重心，确定浮心、重心之后计算出倾斜一定角度时的复原力矩。通过使倾斜一定角度时船体重心在浮力方向和船体中心线的交点上来确定AVS(135°)。
 
->  	以小船最低点为坐标原点，垂直垂直向上为Z轴，船头至船尾的连线为Y轴建立直角坐标系以方程                                为船体底部曲面方程，最终确定A=8.33，B=3.33，计算得船长length为0.379m，宽width为0.240m高height为0.120m，桅杆重心(0,0,0.292)，重物重心(0,0,0.042)，船体重心为(0,0,0.080)。
+>  	​		以小船最低点为坐标原点，垂直垂直向上为Z轴，船头至船尾的连线为Y轴建立直角坐标系以方程                                为船体底部曲面方程，最终确定A=8.33，B=3.33，计算得船长length为0.379m，宽width为0.240m高height为0.120m，桅杆重心(0,0,0.292)，重物重心(0,0,0.042)，船体重心为(0,0,0.080)。
 
-### 三、详细解答过程请看项目报告书，找不到自己想要的请留言（by a new issue)
+### 四、详细解答过程请看项目报告书，找不到自己想要的请留言（by a new issue)
