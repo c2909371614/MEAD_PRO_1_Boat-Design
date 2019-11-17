@@ -1,6 +1,14 @@
 # MEAD_PRO_1_Boat-Design
 机器人学院的MEAD 项目--小船项目分享
 
+<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\心动号.jpg" alt="心动号" style="zoom: 33%;" />
+
+<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\小船solidwords三维模型图.jpg" style="zoom: 55%;" />
+
+<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\小船骨架设计cad二维工程图.jpg" alt="小船骨架设计cad二维工程图" style="zoom:107%;" />
+
+
+
 ### 一、MADE项目任务书-- 船只设计项目
 
 ​		Welcome to the MADE project!!! Here, MADE stands for Mathematical Analysis and Design for Engineering. This is a project-based course, which aims at improving the participators’ understanding of mathematics knowledge and engineering analysis. MADE should be able to help the students to develop a thinking mode of applying theoretical analysis and quantitative calculation, and truly understand the role of mathematics in engineering projects. 
@@ -61,7 +69,7 @@
 
 **制造要求**
 
-1. 你只能使用一块***600mmX450mm\***的一块硬质板；
+1. 你只能使用一块***600mmX450mm***的一块硬质板；
 
 2. 必须使用公式驱动的CAD模型创建船只，
 
@@ -69,7 +77,7 @@
 
 4. 船必须是不含**舭龙骨**的单体船设计（即不得使用外延龙骨板或双船体）
 
-5. 船必须包括桅杆。桅杆将是一个0.5米长，直径***10mm\***的铝棒。桅杆的整个长度必须垂直延伸在船底之上。（不得延伸到船底之外）
+5. 船必须包括桅杆。桅杆将是一个0.5米长，直径***10mm***的铝棒。桅杆的整个长度必须垂直延伸在船底之上。（不得延伸到船底之外）
 
 6. 应将孔眼按照所需的拖曳点连接到船体上，以便进行速度测试。
 
@@ -140,4 +148,10 @@
 
 5.3 画出重物质量与重心关系的曲线图（曲线图的纵横坐标表示重心坐标，曲线上的点的大小表示质量）
 
-### 三、详细解答过程请看项目报告书，找不到自己想要的请留言
+### 三、解决方案概要
+
+> ​	针对如何使用一块***600mm x500mm\***的木板制造一艘在承载一定质量的重物的情况下能够平稳的漂浮起来切具有稳定消失角(AVS)的方案进行了研究。通过数学曲面公式来简单的表示船体的曲面，通过曲面积分来计算船体体积、吃水线性、船体的浮心和重心，确定浮心、重心之后计算出倾斜一定角度时的复原力矩。通过使倾斜一定角度时船体重心在浮力方向和船体中心线的交点上来确定AVS(135°)。
+
+>  	以小船最低点为坐标原点，垂直垂直向上为Z轴，船头至船尾的连线为Y轴建立直角坐标系以方程                                为船体底部曲面方程，最终确定A=8.33，B=3.33，计算得船长length为0.379m，宽width为0.240m高height为0.120m，桅杆重心(0,0,0.292)，重物重心(0,0,0.042)，船体重心为(0,0,0.080)。
+
+### 三、详细解答过程请看项目报告书，找不到自己想要的请留言（by a new issue)
