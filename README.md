@@ -1,13 +1,14 @@
 # MEAD_PRO_1_Boat-Design
+<center>
 机器人学院的MEAD 项目--小船项目分享
 
-<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\心动号.jpg" alt="心动号" style="zoom: 33%;" />
-
-<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\小船solidwords三维模型图.jpg" style="zoom: 55%;" />
-
-<img src="F:\机器人学院资料\Homework\MADE_Project\MADE_PRO_1_Boat Design\答辩待用图片\小船骨架设计cad二维工程图.jpg" alt="小船骨架设计cad二维工程图" style="zoom:107%;" />
-
-
+<img src="https://github.com/c2909371614/MEAD_PRO_1_Boat-Design/blob/master/%E7%AD%94%E8%BE%A9%E5%BE%85%E7%94%A8%E5%9B%BE%E7%89%87/%E5%BF%83%E5%8A%A8%E5%8F%B7.jpg" height = 80% width = 80% />
+fig 1. 心动号
+<img src="https://github.com/c2909371614/MEAD_PRO_1_Boat-Design/blob/master/%E7%AD%94%E8%BE%A9%E5%BE%85%E7%94%A8%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%88%B9solidwords%E4%B8%89%E7%BB%B4%E6%A8%A1%E5%9E%8B%E5%9B%BE.jpg" height = 80% width = 80% />
+fig 2. 小船solidwords三维模型图
+<img src="https://github.com/c2909371614/MEAD_PRO_1_Boat-Design/blob/master/%E7%AD%94%E8%BE%A9%E5%BE%85%E7%94%A8%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%88%B9%E9%AA%A8%E6%9E%B6%E8%AE%BE%E8%AE%A1cad%E4%BA%8C%E7%BB%B4%E5%B7%A5%E7%A8%8B%E5%9B%BE.jpg" height = 80% width = 80%/>
+ifg 3. 小船骨架设计cad二维工程图
+</center>
 
 ### 一、MADE项目任务书-- 船只设计项目
 
